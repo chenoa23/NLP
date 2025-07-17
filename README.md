@@ -1,8 +1,3 @@
-# Natural Language Processing (NLP) Projects  
-A curated collection of NLP projects created during my Applied Artificial Intelligence coursework at Miami Dade College. These projects demonstrate core NLP techniques—text preprocessing, sentiment analysis, classification, and visualization—using tools like NLTK, VADER, and pandas.
-
----
-
 ## Projects Overview
 
 # Natural Language Processing Projects  
